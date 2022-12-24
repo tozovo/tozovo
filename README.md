@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustofa Agus Ti Utomo</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Front-End Developer | UI / UX from Indonesia</h3>
 
 - 🔭 I’m currently working on [User Interface Design](https://www.linkedin.com/feed/update/urn:li:activity:7000949804923064320?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7000949804923064320%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsWRkSUbET4q7AiZ3wrCV1g%3D%3D)
 
